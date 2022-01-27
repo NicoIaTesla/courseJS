@@ -6,4 +6,4 @@ let fullPrice;
 let adaptive;
 
 console.log('Console message');
-alert('Alert message');
+// alert('Alert message');
